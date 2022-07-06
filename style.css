@@ -1,0 +1,95 @@
+body{
+    font-family: 'Gentium Book Plus', serif;
+font-family: 'PT Serif', serif;
+font-family: 'Roboto Slab', serif;
+margin: 0%;
+}
+h1{
+    font-size: 80px;
+    ;
+}
+p{
+    font-size: 20px;
+}
+#you{
+  
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 50%;
+     
+}
+
+
+.button{
+    text-decoration: none;
+    background-color: orange;
+     padding: 12px 25px;
+     color: aliceblue;
+     font-size: 200%;
+     margin-left: 30%;
+     
+     border-radius: 25px;
+}
+.to{
+    position: relative;
+    font-family: Arial;
+}
+.bennar{
+    background-image: url(donate-today-main/images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    display: flex;
+
+}
+.medal{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.change{
+    display: grid;
+    grid-template-columns:  100px 100px 100px 100px;
+    grid-column-gap: 10px;
+    text-align: center;
+    width: 30%;
+    grid-row: 5px;
+}
+.change{
+    
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+    font-size: 200%;
+    border-radius: 5%;
+    border-right: cornflowerblue;
+   
+    
+    padding: 2%;
+    border-radius: 10%;
+    box-shadow: 10px 10px 40px gray;
+ 
+}
+.flexble-containar{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 20px;
+    grid-row: 20px;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow: 10PX 10PX 10px grey;
+    color: saddlebrown;
+}
+.tag{
+    display: flex;
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+.tag img{
+    font-size: 100%;
+}
